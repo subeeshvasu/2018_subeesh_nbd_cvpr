@@ -14,6 +14,19 @@ This repo provides the test code, pretrained models, and results on benchmark da
         booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
         pages={3272--3281},
         year = {2018}}
+## Results     
+<p align="center">
+<img src="images/nbd_syntheg_levin.png">
+</p>
 
+<p align="center">
+<img src="images/nbd_syntheg_lai.png">
+</p>
+
+<p align="center">
+<img src="images/nbd_realeg_lai.png">
+</p>
+
+Visual comparison for NBD from inaccurate kernel estimates on Levin CVPR 2011 and Lai CVPR 2017 datasets. [Levin TOG 2007](https://groups.csail.mit.edu/graphics/CodedAperture/), [Krishnan NIPS 2009](https://dilipkay.wordpress.com/fast-deconvolution/), [Zoran ICCV 2011](https://people.csail.mit.edu/danielzoran/EPLLICCVCameraReady.pdf), [Danielyan TIP 2012](https://www.cs.tut.fi/~foi/GCF-BM3D/BM3DframesDeblur-Danielyan.pdf), [Ji TIP 2012](http://www.math.nus.edu.sg/~matjh/download/robust_deblur/TIP_2012_deblur.pdf), [Kheradmand TIP 2014](https://ieeexplore.ieee.org/document/6918453/), and [Schmidt CVPR 2014](http://research.uweschmidt.org/pubs/cvpr14schmidt.pdf) are existing works.
 
 
