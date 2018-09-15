@@ -31,9 +31,9 @@ Visual comparison for NBD from inaccurate kernel estimates on [Levin CVPR 2011](
 
 ## Results on public benchmark datasets
 
-- [Levin CVPR 2011]()
-- [Sun ICCP 2013]() 
-- [Lai CVPR 2016]()
+- [Levin CVPR 2011]() - will update soon
+- [Sun ICCP 2013]() - will update soon
+- [Lai CVPR 2016]() - will update soon
 
 ## References
 
