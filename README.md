@@ -7,13 +7,14 @@
 This repo provides the test code, pretrained models, and results on benchmark datasets of our CVPR 2018 paper ([Non-blind Deblurring: Handling Kernel Uncertainty with CNNs](https://drive.google.com/file/d/1htYVSTXJ60ChPUWjsCHblS22IWlwMitX/view)).
 
 #### BibTeX
+
  
-@inproceedings{vasu2018occlusion,
-  title={Occlusion-Aware Rolling Shutter Rectification of 3D Scenes},
-  author={Vasu, Subeesh and MR, Mahesh Mohan and Rajagopalan, AN},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={636--645},
-  year={2018}
-}
+     @inproceedings{vasu2018non,
+        author = {Vasu, Subeesh and Reddy Maligireddy, Venkatesh and Rajagopalan, AN},
+        title = {Non-Blind Deblurring: Handling Kernel Uncertainty With CNNs},
+        booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+        pages={3272--3281},
+        year = {2018}}
+
 
 
