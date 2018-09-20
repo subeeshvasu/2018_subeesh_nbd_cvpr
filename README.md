@@ -1,6 +1,6 @@
 # Handling Kernel Uncertainty with CNNs
 
-This repo provides the test code, pretrained models, and results on benchmark datasets of our CVPR 2018 paper ([Non-blind Deblurring: Handling Kernel Uncertainty with CNNs](https://drive.google.com/file/d/1htYVSTXJ60ChPUWjsCHblS22IWlwMitX/view)).
+This repo provides results on benchmark datasets of our CVPR 2018 paper ([Non-blind Deblurring: Handling Kernel Uncertainty with CNNs](https://drive.google.com/file/d/1htYVSTXJ60ChPUWjsCHblS22IWlwMitX/view)).
 
 
 "Non-blind Deblurring: Handling Kernel Uncertainty with CNNs", [Subeesh Vasu](https://subeeshvasu.github.io), Venkatesh Maligireddy and [A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/), IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2018), Salt Lake City, USA, June 2018. [main paper](https://drive.google.com/file/d/1htYVSTXJ60ChPUWjsCHblS22IWlwMitX/view), [supple](https://drive.google.com/file/d/1xtWUoh4qm4rX1W8gZ7BaA8HFTy5CTBNC/view), [poster](https://drive.google.com/file/d/1uhhrceerogugU0cAdG79AoyWhSSGZxcW/view)
@@ -28,9 +28,6 @@ This repo provides the test code, pretrained models, and results on benchmark da
 </p>
 
 Visual comparison for NBD from inaccurate kernel estimates on [Levin CVPR 2011](http://webee.technion.ac.il/people/anat.levin/papers/deconvLevinEtalCVPR11.pdf) and [Lai CVPR 2016](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/) datasets. [Levin TOG 2007](https://groups.csail.mit.edu/graphics/CodedAperture/), [Krishnan NIPS 2009](https://dilipkay.wordpress.com/fast-deconvolution/), [Zoran ICCV 2011](https://people.csail.mit.edu/danielzoran/EPLLICCVCameraReady.pdf), [Danielyan TIP 2012](https://www.cs.tut.fi/~foi/GCF-BM3D/BM3DframesDeblur-Danielyan.pdf), [Ji TIP 2012](http://www.math.nus.edu.sg/~matjh/download/robust_deblur/TIP_2012_deblur.pdf), [Kheradmand TIP 2014](https://ieeexplore.ieee.org/document/6918453/), and [Schmidt CVPR 2014](http://research.uweschmidt.org/pubs/cvpr14schmidt.pdf) are existing works on NBD.
-
-## Test
-Currently the test code is not available. I am working on the test code that can be shared for public. Will update soon.
 
 ## Results on public benchmark datasets
 
